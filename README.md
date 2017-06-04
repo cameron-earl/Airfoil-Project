@@ -1,4 +1,4 @@
-# Airfoil-Project
+# Airfoil Project
 
 This is part of a project I undertook in an engineering class. The following files are included:
 <ol>
